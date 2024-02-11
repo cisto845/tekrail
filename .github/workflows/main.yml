@@ -1,0 +1,5 @@
+git lfs install
+git lfs track "*.safetensors"
+git add .gitattributes
+git commit -m "aggiunto file .gitattributes"
+git push origin master
